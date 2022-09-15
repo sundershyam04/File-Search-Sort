@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\bin\Debug\Sort Search from Files.exe.config
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\bin\Debug\Sort Search from Files.exe
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\bin\Debug\Sort Search from Files.pdb
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\obj\Debug\Sort Search from Files.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\obj\Debug\Sort Search from Files.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\obj\Debug\Sort Search from Files.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\obj\Debug\Sort Search from Files.exe
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project 2 - DSA\Sort Search from Files\obj\Debug\Sort Search from Files.pdb
